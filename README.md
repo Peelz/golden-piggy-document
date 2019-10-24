@@ -4,7 +4,7 @@ Financial planning and recording of income and expenses application with **easy 
 - import / export as excel or google sheet
 - user group (create group for couple target who want to planing together) 
 - analytic from tag or category, present to user like Pie chart, Graph etc. 
-	- mostly tag or category user spended
+	- mostly tag or category user spent
 	- mothly report
 	- weekly report
 - CRUD transaction as income, expense
